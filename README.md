@@ -6,4 +6,4 @@
 
 ### result
 
-![result](Resources/parrot.png)
+![result](screen.png)
